@@ -1,6 +1,6 @@
 <?php
 
-//这是个什么东西//这又是个什么东西
+//这是个什么东西//这又是个什么东西11
 class Random
 {
 	private static $randomCount  = 0;
