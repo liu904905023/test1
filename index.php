@@ -1,7 +1,11 @@
 <?php
 
+<<<<<<< HEAD
 //这是个什么东西//这又是个什么东西112222
 ///哈哈
+=======
+//这是个什么东西//这又是个什么东西11222
+>>>>>>> 1c9c6aed8f6cacbb1c3d4cfef594be935c3ef704
 class Random
 {
 	private static $randomCount  = 0;
